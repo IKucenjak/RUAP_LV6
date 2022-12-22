@@ -1,0 +1,17 @@
+C:\Users\student\source\repos\RUAP_LV6\RUAP_LV6\bin\Debug\netcoreapp3.1\RUAP_LV6.exe
+C:\Users\student\source\repos\RUAP_LV6\RUAP_LV6\obj\Debug\netcoreapp3.1\RUAP_LV6.csprojAssemblyReference.cache
+C:\Users\student\source\repos\RUAP_LV6\RUAP_LV6\obj\Debug\netcoreapp3.1\RUAP_LV6.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\RUAP_LV6\RUAP_LV6\obj\Debug\netcoreapp3.1\RUAP_LV6.AssemblyInfo.cs
+C:\Users\student\source\repos\RUAP_LV6\RUAP_LV6\bin\Debug\netcoreapp3.1\RUAP_LV6.deps.json
+C:\Users\student\source\repos\RUAP_LV6\RUAP_LV6\bin\Debug\netcoreapp3.1\RUAP_LV6.runtimeconfig.json
+C:\Users\student\source\repos\RUAP_LV6\RUAP_LV6\bin\Debug\netcoreapp3.1\RUAP_LV6.runtimeconfig.dev.json
+C:\Users\student\source\repos\RUAP_LV6\RUAP_LV6\bin\Debug\netcoreapp3.1\RUAP_LV6.dll
+C:\Users\student\source\repos\RUAP_LV6\RUAP_LV6\bin\Debug\netcoreapp3.1\RUAP_LV6.pdb
+C:\Users\student\source\repos\RUAP_LV6\RUAP_LV6\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+C:\Users\student\source\repos\RUAP_LV6\RUAP_LV6\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\student\source\repos\RUAP_LV6\RUAP_LV6\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\student\source\repos\RUAP_LV6\RUAP_LV6\obj\Debug\netcoreapp3.1\RUAP_LV6.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\RUAP_LV6\RUAP_LV6\obj\Debug\netcoreapp3.1\RUAP_LV6.csproj.CopyComplete
+C:\Users\student\source\repos\RUAP_LV6\RUAP_LV6\obj\Debug\netcoreapp3.1\RUAP_LV6.dll
+C:\Users\student\source\repos\RUAP_LV6\RUAP_LV6\obj\Debug\netcoreapp3.1\RUAP_LV6.pdb
+C:\Users\student\source\repos\RUAP_LV6\RUAP_LV6\obj\Debug\netcoreapp3.1\RUAP_LV6.genruntimeconfig.cache
